@@ -7,7 +7,6 @@ This is a simple console-based Movie Ticket Booking System implemented in C. The
 - [Features](#features)
 - [How to Use](#how-to-use)
 - [Screenshots](#screenshots)
-- [License](#license)
 
 ## Features
 
